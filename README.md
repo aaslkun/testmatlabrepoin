@@ -6,10 +6,9 @@ This is a simple project to test MATLAB - GitHub link.  (second version)
 
 First, we have to check if this file is uploaded to GitHub
 
-
 ## Hardware tested
 
-There are not hardware involved in this repo
+There are not hardware devices involved in this repo
 
 ## Software
 
